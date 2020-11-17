@@ -8,7 +8,7 @@
 * README.md - this file itself to show the home page of this repo
 
 ## Connect me via
-[Facebook](https://www.facebook.com/lenghi20)
-[Email](mailto: lenghi20@gmail.com)
+1. [Facebook](https://www.facebook.com/lenghi20)
+2. [Email](mailto: lenghi20@gmail.com)
 
 #### © 2020 by lenghi20
