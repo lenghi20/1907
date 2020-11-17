@@ -28,6 +28,7 @@ public class MathUtil {
         //cách test kiểu này gọi là: MANUAL
         //vì ta phải nhìn bằng mắt để ta luận kết quả
         System.out.println("-5!=" + MathUtility.getFactorial(-5));
+        System.out.println("ahihi");
     }
     
 }
