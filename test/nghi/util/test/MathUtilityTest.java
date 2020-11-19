@@ -24,6 +24,7 @@ public class MathUtilityTest {
         assertEquals(120, MathUtility.getFactorial(5));
         assertEquals(6, MathUtility.getFactorial(3));
         assertEquals(1, MathUtility.getFactorial(1));
+        assertEquals(1, MathUtility.getFactorial(1));
     }
     //xanh chỉ đạt được khi tất cả cùng xanh
     //đỏ chỉ cần ít nhất 1 thằng đỏ
