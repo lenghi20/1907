@@ -12,4 +12,4 @@
 2. [Email](mailto: lenghi20@gmail.com)
 
 #### © 2020 by lenghi20
-![Test image](https://icdn.dantri.com.vn/thumb_w/640/2017/1-1510967806416.jpg)
+![Practice CI with GitHub Actions using Ant and JUnit | © 2020 by lenghi20](https://github.com/lenghi20/math-util/workflows/Practice%20CI%20with%20GitHub%20Actions%20using%20Ant%20and%20JUnit%20%7C%20%C2%A9%202020%20by%20lenghi20/badge.svg)
